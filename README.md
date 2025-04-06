@@ -2,17 +2,19 @@
 This News App was developed as part of an internship application, showcasing essential skills in Flutter, state management, and RESTful API integration.
 
 🔧 Technologies Used:
-Flutter for app development
 
-Cubit (Flutter Bloc) for state management
+ - Flutter for app development
 
-HTTP package for API requests
+ - Cubit (Flutter Bloc) for state management
 
-RESTful API from jsonplaceholder.typicode.com/posts
+ - HTTP package for API requests
 
-Material Design principles for UI
+ - RESTful API from jsonplaceholder.typicode.com/posts
+
+ - Material Design principles for UI
 
 ✨ Key Features:
+
 🏠 Home, 📄 Details, and ⚙️ Settings screens
 
 🌗 Support for Light and Dark Mode
@@ -28,6 +30,7 @@ Material Design principles for UI
 🔌 Fetches and parses JSON data from a RESTful API using http package
 
 This project demonstrates core Flutter development principles, clean architecture with Cubit, and practical use of APIs — making it a solid example of building dynamic and responsive mobile UIs.
+
 
 
 ![Screenshot_1743929795](https://github.com/user-attachments/assets/88502806-b351-4859-8f33-08924e126e23)
